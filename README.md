@@ -4,7 +4,8 @@ Currency recognition is the process of detecting the patterns of currencies by c
 # STEPS: 
 
  Step 1: Load the input currency image
- Step 2 Perform preprocessing technique over image
+ 
+ Step 2: Perform preprocessing technique over image
  Step 3: Detect the color of currency image
  Step 4: If the color of the currency image was detected then get the currency type
  Step 5: Perform segmentation based on type
