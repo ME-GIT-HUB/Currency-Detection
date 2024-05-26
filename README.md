@@ -6,11 +6,17 @@ Currency recognition is the process of detecting the patterns of currencies by c
  Step 1: Load the input currency image
  
  Step 2: Perform preprocessing technique over image
+ 
  Step 3: Detect the color of currency image
+ 
  Step 4: If the color of the currency image was detected then get the currency type
+ 
  Step 5: Perform segmentation based on type
+ 
  Step 6: Perform pattern matching with existing patterns
+ 
  Step 7: If pattern matched then obtain the currency value
+ 
  Step 8: Execute the currency value of input image as output
 
 
